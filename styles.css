@@ -278,7 +278,7 @@ button {
     margin: 0;
     justify-content: center;
     max-width: 100%;
-    padding: 4rem
+    padding: 3.5rem 1.5rem
   }
 }
 
@@ -461,6 +461,15 @@ button {
 .testimonial-author p  { opacity: .5!important }
 
 @media (width <= 768px) {
+  .testimonials {
+    padding-block: 5rem;
+  }
+
+  .testimonials h2 {
+    font-size: 1rem;
+    margin-bottom: 4rem;
+  }
+
   .testimonials-wrapper {
     --flow-space: 2rem;
     grid-template-columns: 1fr;
