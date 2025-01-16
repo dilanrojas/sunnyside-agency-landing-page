@@ -92,7 +92,7 @@ button {
 /* Contents */
 .pm-header {
   position: relative;
-  height: 690px;
+  height: 720px;
   color: var(--white);
 }
 
@@ -106,7 +106,7 @@ button {
 .pm-nav-list-contact {
   background-color: var(--white);
   color: var(--very-dark-desaturated-blue);
-  padding: .65rem 1.6rem;
+  padding: .9rem 1.4rem;
   border-radius: 30px;
   font-family: var(--ff-heading);
   text-transform: uppercase;
