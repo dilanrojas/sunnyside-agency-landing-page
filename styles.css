@@ -211,7 +211,7 @@ button {
   animation: goingDown 2.5s forwards infinite;
 
   & img {
-    /* opacity: 0; <---- Uncomment for deployment */
+    opacity: 0;
     animation: fadeIn 2.2s forwards
   }
 }
